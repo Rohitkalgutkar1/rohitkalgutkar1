@@ -4,7 +4,7 @@ I build small games, tools and websites, and I'm learning by shipping things.
 
 ## 🚀 Projects
 
-- **[Space Defender](https://rohitkalgutkar1.github.io/Spacedefender/)**: a space shooter game. Play the web version (Alpha V3) in your browser, or check out the [Android version](https://github.com/Rohitkalgutkar1/Space-defender).
+- **[Space Defender](https://rohitkalgutkar1.github.io/Spacedefender/)**: a space shooter game. Play the web version (Alpha V3) in your browser, or check out the [Android version](https://rohitkalgutkar1.github.io/Spacedefender/).
 - **[COC Account Tracker](https://github.com/Rohitkalgutkar1/COC-Account-Tracker)**: keep all your Clash of Clans accounts in one place, saved locally.
 
 ## 🌐 Find me
