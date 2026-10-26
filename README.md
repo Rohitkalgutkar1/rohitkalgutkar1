@@ -10,7 +10,6 @@ I build small games, tools and websites, and I'm learning by shipping things.
 ## 🌐 Find me
 
 - [Portfolio](https://rohitkalgutkar1.github.io/)
-- [CV](https://rohitkalgutkar1.github.io/Rohit-Kalgutkar/)
 
 ## 🌱 Currently
 
